@@ -10,3 +10,7 @@ django-allauth-ui==1.5.3
 django-widget-tweaks
 stripe
 slippers
+psycopg2-binary
+dj-database-url
+gunicorn
+pillow
