@@ -19,7 +19,7 @@ COPY requirements.txt /tmp/requirements.txt
 RUN pip install --upgrade pip
 RUN pip install -r /tmp/requirements.txt
 
-COPY ./src /code
+COPY . /code
 
 ARG PROJ_NAME=cfehome
 
