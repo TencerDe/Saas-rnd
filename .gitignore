@@ -1,2 +1,4 @@
+#Ignore Static vendor files
+cfehome\staticfiles\vendors
 .venv
 .env
